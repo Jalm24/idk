@@ -8,9 +8,31 @@
 		"sheetURL": "https://github.com/Jalm24/idk/raw/main/retro-stuff.t3x",
 		"description": "An online database of 3DS software",
 		"version": 3,
-		"revision": 5
+		"revision": 6
 	},
-	"storeContent": [{
+	"storeContent": [
+		{
+		"info": {
+			"title": "Jetix Puzzle Buzzle",
+			"version": "v2.6.1",
+			"author": "Blast! Entertainmen",
+			"category": ["utilities"],
+			"console": ["3DS"],
+			"icon_index": 0,
+			"sheet_index": 0,
+			"description": "basic File manager and app installer for 3DS.",
+			"last_updated": "2008-04-04",
+			"license": "unknow"
+		},
+		"Download Jetix_Puzzle_Buzzle.nds": [{
+			"file": "https://archive.org/download/idkrandom/Jetix_Puzzle_Buzzle.nds",
+			"message": "Descargando .nds",
+			"output": "%NDS%/Jetix_Puzzle_Buzzle.nds",
+			"type": "downloadFile"
+		}]
+		},
+		{
+		
 		"info": {
 			"title": "FBI",
 			"version": "v2.6.1",
