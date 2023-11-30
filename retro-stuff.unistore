@@ -1,0 +1,46 @@
+{
+  "storeInfo": {
+    "title": "My Religion? it's the Retro Stuff",
+    "author": "Tiny Retro Lover",
+    "url": "http://drive.usercontent.google.com/download?id=1F8Lq4CDLeLk9pwyNy7hGRnc4-ScWsoNL&export=download&authuser=6&confirm=t&uuid=9d399ebe-3b0f-4796-9b6a-5de6ad6ea4e7&at=APZUnTUbAcSGHRF0f5koWjeNroXY:1701273498609",
+    "file": "retro-stuff.unistore",
+    "sheet": "retro-stuff.t3x",
+    "sheetURL": "http://drive.usercontent.google.com/download?id=1g9nLA3jrIzb60GBwr3rLgNUCabhBlacC&export=download&authuser=6&confirm=t&uuid=dd3410e1-e051-4590-92e1-73f545d47838&at=APZUnTVnqrCx-dYEQK4tcaeOVXbl:1701273466729",
+    "description": "An online database of 3DS software",
+    "version": 1,
+    "revision": 1
+  },
+  "storeContent": [
+    {
+      "adventure-island.cia": {
+        "script": [
+          {
+            "file": "http://archive.org/download/3ds-cia-undatted-encrypted/Adventure%20Island%20%28USA%29%20%28GB%29%20%28Virtual%20Console%29.cia",
+            "output": "/Adventure Island (USA) (GB) (Virtual Console).cia",
+            "type": "downloadFile"
+          },
+          {
+            "file": "/Adventure Island (USA) (GB) (Virtual Console).cia",
+            "type": "installCia"
+          },
+          {
+            "file": "/Adventure Island (USA) (GB) (Virtual Console).cia",
+            "type": "deleteFile"
+          }
+        ]
+      },
+      "info": {
+        "author": "Hudson Soft",
+        "category": [ "game" ],
+        "console": [ "3DS" ],
+        "description": "gameboy virtual consola of adventure island!",
+        "icon_index": 0,
+        "last_updated": "1988-09-12",
+        "license": "CC BY-SA 4.0",
+        "releasenotes": "pls enjoy this game :)",
+        "title": "Adventure Island (GB)",
+        "version": "v1.0.0"
+      }
+    }
+  ]
+}
