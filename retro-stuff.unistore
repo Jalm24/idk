@@ -8,30 +8,9 @@
 		"sheetURL": "https://raw.githubusercontent.com/Jalm24/idk/main/retro-stuff.t3x",
 		"description": "An online database of 3DS software",
 		"version": 4,
-		"revision": 2
+		"revision": 3
 	},
-	"storeContent": [
-		{
-		"info": {
-			"title": "Jetix Puzzle Buzzle",
-			"version": "v2.6.1",
-			"author": "Blast! Entertainmen",
-			"category": ["games"],
-			"console": ["NDS"],
-			"icon_index": 1,
-			"sheet_index": 0,
-			"description": "nds puzzle game",
-			"last_updated": "2008-04-04",
-			"license": "unknow"
-		},
-		"Download Jetix_Puzzle_Buzzle.nds": [{
-			"file": "https://archive.org/download/idkrandom/Jetix_Puzzle_Buzzle.nds",
-			"message": "Descargando .nds",
-			"output": "%NDS%/Jetix_Puzzle_Buzzle.nds",
-			"type": "downloadFile"
-		}]
-		},
-		{
+	"storeContent": [{
 		
 		"info": {
 			"title": "FBI",
@@ -63,11 +42,31 @@
 
 		},
 		{
+		"info": {
+			"title": "Jetix Puzzle Buzzle",
+			"version": "v2.6.1",
+			"author": "Blast! Entertainmen",
+			"category": ["games"],
+			"console": ["NDS"],
+			"icon_index": 1,
+			"sheet_index": 0,
+			"description": "nds puzzle game",
+			"last_updated": "2008-04-04",
+			"license": "unknow"
+		},
+		"Download Jetix_Puzzle_Buzzle.nds": [{
+			"file": "https://archive.org/download/idkrandom/Jetix_Puzzle_Buzzle.nds",
+			"message": "Descargando .nds",
+			"output": "%NDS%/Jetix_Puzzle_Buzzle.nds",
+			"type": "downloadFile"
+		}]
+		},
+		{
 		
 		"info": {
 			"title": "Sega 3D Classics Collection",
-			"version": "v2.6.1",
-			"author": "Steveice10",
+			"version": "v1.0.0",
+			"author": "SEGA",
 			"category": ["games"],
 			"console": ["3DS"],
 			"icon_index": 2,
