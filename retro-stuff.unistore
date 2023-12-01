@@ -8,7 +8,7 @@
 		"sheetURL": "https://raw.githubusercontent.com/Jalm24/idk/main/retro-stuff.t3x",
 		"description": "An online database of 3DS software",
 		"version": 4,
-		"revision": 1
+		"revision": 2
 	},
 	"storeContent": [
 		{
@@ -70,25 +70,25 @@
 			"author": "Steveice10",
 			"category": ["games"],
 			"console": ["3DS"],
-			"icon_index": 0,
-			"sheet_index": 2,
+			"icon_index": 2,
+			"sheet_index": 0,
 			"description": "¡Una colección con 9 juegos clásicos de SEGA en uno solo! Desde los salones recreativos a tu Nintendo 3DS, juega a los clásicos que definieron el mundo de los videojuegos. Elige el juego que más te apetezca: ¡disparos, carreras, acción, puzles y muchas más cosas!",
 			"last_updated": "2014-12-18",
 			"license": "error"
 		},
 		"Download Sega 3D Classics USA.cia": [{
-			"file": "https://archive.org/download/Master-Dragon/Sega 3D Classics Collection (USA) - By Carlos Magaña.cia",
+			"file": "https://archive.org/download/Master-Dragon/Sega%203D%20Classics%20Collection%20%28USA%29%20-%20By%20Carlos%20Maga%C3%B1a.cia",
 			"message": "Downloading Sega 3D Classics",
-			"output": "sdmc:/Sega 3D Classics Collection (USA) - By Carlos Magaña.cia",
+			"output": "sdmc:/Sega%203D%20Classics%20Collection%20%28USA%29%20-%20By%20Carlos%20Maga%C3%B1a.cia",
 			"type": "downloadFile"
 			},
 			{
 			"type": "installCia",
-			"file": "/Sega 3D Classics Collection (USA) - By Carlos Magaña.cia"
+			"file": "/Sega%203D%20Classics%20Collection%20%28USA%29%20-%20By%20Carlos%20Maga%C3%B1a.cia"
 			},
 			{
 			"type": "deleteFile",
-			"file": "sdmc:/Sega 3D Classics Collection (USA) - By Carlos Magaña.cia"
+			"file": "sdmc:/Sega%203D%20Classics%20Collection%20%28USA%29%20-%20By%20Carlos%20Maga%C3%B1a.cia"
 			}
 		]
 
