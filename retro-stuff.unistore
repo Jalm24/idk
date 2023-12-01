@@ -5,10 +5,10 @@
 		"url": "https://raw.githubusercontent.com/Jalm24/idk/main/retro-stuff.unistore",
 		"file": "retro-stuff.unistore",
 		"sheet": "retro-stuff.t3x",
-		"sheetURL": "https://github.com/Jalm24/idk/raw/main/retro-stuff.t3x",
+		"sheetURL": "https://raw.githubusercontent.com/Jalm24/idk/main/retro-stuff.t3x",
 		"description": "An online database of 3DS software",
 		"version": 4,
-		"revision": 0
+		"revision": 1
 	},
 	"storeContent": [
 		{
@@ -72,23 +72,23 @@
 			"console": ["3DS"],
 			"icon_index": 0,
 			"sheet_index": 2,
-			"description": "¡Una colección con 9 juegos clásicos de SEGA en uno solo!\n Desde los salones recreativos a tu Nintendo 3DS,\n juega a los clásicos que definieron el mundo de los videojuegos.\n Elige el juego que más te apetezca: ¡disparos, carreras,\n acción, puzles y muchas más cosas!",
+			"description": "¡Una colección con 9 juegos clásicos de SEGA en uno solo! Desde los salones recreativos a tu Nintendo 3DS, juega a los clásicos que definieron el mundo de los videojuegos. Elige el juego que más te apetezca: ¡disparos, carreras, acción, puzles y muchas más cosas!",
 			"last_updated": "2014-12-18",
 			"license": "error"
 		},
 		"Download Sega 3D Classics USA.cia": [{
-			"file": "https://archive.org/download/Master-Dragon/Sega 3D Classics Collection %28USA%29 - By Carlos Magaña.cia",
+			"file": "https://archive.org/download/Master-Dragon/Sega 3D Classics Collection (USA) - By Carlos Magaña.cia",
 			"message": "Downloading Sega 3D Classics",
-			"output": "sdmc:/Sega 3D Classics Collection %28USA%29 - By Carlos Magaña.cia",
+			"output": "sdmc:/Sega 3D Classics Collection (USA) - By Carlos Magaña.cia",
 			"type": "downloadFile"
 			},
 			{
 			"type": "installCia",
-			"file": "/Sega 3D Classics Collection %28USA%29 - By Carlos Magaña.cia"
+			"file": "/Sega 3D Classics Collection (USA) - By Carlos Magaña.cia"
 			},
 			{
 			"type": "deleteFile",
-			"file": "sdmc:/Sega 3D Classics Collection %28USA%29 - By Carlos Magaña.cia"
+			"file": "sdmc:/Sega 3D Classics Collection (USA) - By Carlos Magaña.cia"
 			}
 		]
 
