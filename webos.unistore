@@ -1,1 +1,95 @@
-{"storeInfo":{"title":"perras calientes","author":"yo","url":"","file":"webos.unistore","sheet":"webos.t3x","sheetURL":"","description":"tu perra madre martida puta","version":"0","revision":"0"},"storeContent": [{"info":{"title":"FBI","version":"v0.0.1","author":"no se","category":"util","console":["3DS"],"icon_index":0,"sheet_index":0,"description":"intalador de cias y gestor de archivos","last_updated":"","license":""},"Download FBI":[{"file":"https://github.com/Steveice10/FBI/releases/download/2.6.1/FBI.cia","message":"descargando putas calientes","output":"sdmc:/FBI.cia","type":"downloadFile"},{"type":"installCia","file":"/FBI.cia"},{"type":"deleteFile","file":"sdmc:/FBI.cia"}]}]}
+{
+	"storeInfo": {
+		"title": "webos",
+		"author": "yo",
+		"url": "https://raw.githubusercontent.com/Jalm24/idk/main/webos.unistore",
+		"file": "webos.unistore",
+		"sheet": "retro-stuff.t3x",
+		"sheetURL": "https://raw.githubusercontent.com/Jalm24/idk/main/retro-stuff.t3x",
+		"description": "tu puta madre",
+		"version": 1,
+		"revision": 1
+	},
+	"storeContent": [{
+		
+		"info": {
+			"title": "FBI",
+			"version": "v2.6.1",
+			"author": "Steveice10",
+			"category": ["utilities"],
+			"console": ["3DS"],
+			"icon_index": 0,
+			"sheet_index": 0,
+			"description": "basic File manager and app installer for 3DS.",
+			"last_updated": "2022-11-11",
+			"license": "MIT"
+		},
+		"Download FBI.cia": [{
+			"file": "https://github.com/Steveice10/FBI/releases/download/2.6.1/FBI.cia",
+			"message": "Downloading FBI.cia",
+			"output": "sdmc:/FBI.cia",
+			"type": "downloadFile"
+			},
+			{
+			"type": "installCia",
+			"file": "/FBI.cia"
+			},
+			{
+			"type": "deleteFile",
+			"file": "sdmc:/FBI.cia"
+			}
+		]
+
+		},
+		{
+		"info": {
+			"title": "Jetix Puzzle Buzzle",
+			"version": "v2.6.1",
+			"author": "Blast! Entertainmen",
+			"category": ["games"],
+			"console": ["NDS"],
+			"icon_index": 1,
+			"sheet_index": 0,
+			"description": "nds puzzle game",
+			"last_updated": "2008-04-04",
+			"license": "unknow"
+		},
+		"Download Jetix_Puzzle_Buzzle.nds": [{
+			"file": "https://archive.org/download/idkrandom/Jetix_Puzzle_Buzzle.nds",
+			"message": "Descargando .nds",
+			"output": "%NDS%/Jetix_Puzzle_Buzzle.nds",
+			"type": "downloadFile"
+		}]
+		},
+		{
+		
+		"info": {
+			"title": "Sega 3D Classics Collection",
+			"version": "v1.0.0",
+			"author": "SEGA",
+			"category": ["games"],
+			"console": ["3DS"],
+			"icon_index": 2,
+			"sheet_index": 0,
+			"description": "¡Una colección con 9 juegos clásicos de SEGA en uno solo! Desde los salones recreativos a tu Nintendo 3DS, juega a los clásicos que definieron el mundo de los videojuegos. Elige el juego que más te apetezca: ¡disparos, carreras, acción, puzles y muchas más cosas!",
+			"last_updated": "2014-12-18",
+			"license": "error"
+		},
+		"Download Sega 3D Classics USA.cia": [{
+			"file": "https://archive.org/download/Master-Dragon/Sega%203D%20Classics%20Collection%20%28USA%29%20-%20By%20Carlos%20Maga%C3%B1a.cia",
+			"message": "Downloading Sega 3D Classics",
+			"output": "sdmc:/Sega%203D%20Classics%20Collection%20%28USA%29%20-%20By%20Carlos%20Maga%C3%B1a.cia",
+			"type": "downloadFile"
+			},
+			{
+			"type": "installCia",
+			"file": "/Sega%203D%20Classics%20Collection%20%28USA%29%20-%20By%20Carlos%20Maga%C3%B1a.cia"
+			},
+			{
+			"type": "deleteFile",
+			"file": "sdmc:/Sega%203D%20Classics%20Collection%20%28USA%29%20-%20By%20Carlos%20Maga%C3%B1a.cia"
+			}
+		]
+
+	}]
+}
